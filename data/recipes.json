@@ -1,0 +1,12 @@
+[
+  {
+    "id": "rcpA",
+    "name": "A",
+    "ingredients": [
+      { "name": "Alcohol",    "amountMl": 80 },
+      { "name": "Parfümöl X", "amountMl": 8  },
+      { "name": "Parfümöl Y", "amountMl": 6  },
+      { "name": "Parfümöl Z", "amountMl": 4  }
+    ]
+  }
+]

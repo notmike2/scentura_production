@@ -1,0 +1,12 @@
+[
+  { "id": "alk",  "name": "Alcohol",     "kind": "liquid", "amount": 20000 },
+  { "id": "gly",  "name": "Glycerin",    "kind": "liquid", "amount": 5000  },
+  { "id": "x",    "name": "Parfümöl X",  "kind": "liquid", "amount": 1500  },
+  { "id": "y",    "name": "Parfümöl Y",  "kind": "liquid", "amount": 2300  },
+  { "id": "z",    "name": "Parfümöl Z",  "kind": "liquid", "amount": 3600  },
+  { "id": "fl",   "name": "Flaschen",    "kind": "piece",  "amount": 120   },
+  { "id": "etik", "name": "Etiketten",   "kind": "piece",  "amount": 200   },
+  { "id": "spr",  "name": "Sprühköpfe",  "kind": "piece",  "amount": 85    },
+  { "id": "cap",  "name": "Verschlüsse", "kind": "piece",  "amount": 95    },
+  { "id": "h2o",  "name": "Wasser",      "kind": "liquid", "amount": 35000 }
+]

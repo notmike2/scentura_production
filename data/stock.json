@@ -1,0 +1,6 @@
+[
+  { "id": "stkA", "name": "A", "quantity": 5 },
+  { "id": "stkB", "name": "B", "quantity": 8 },
+  { "id": "stkC", "name": "C", "quantity": 100 },
+  { "id": "stkD", "name": "D", "quantity": 0 }
+]
